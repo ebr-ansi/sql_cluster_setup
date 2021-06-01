@@ -1,0 +1,5 @@
+---
+- hosts: <Update Target Hosts (Both Nodes IP/Hostname)>
+
+  roles:
+    - sql_cluster_setup
